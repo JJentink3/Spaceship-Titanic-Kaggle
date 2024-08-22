@@ -40,7 +40,7 @@ The goal of this competition is to predict whether passengers aboard the spacesh
 ## Project Notebook
 The main analysis and model training for this project is documented in the following Jupyter notebook:
 
-- [Jupyter notebook](notebook/Space_Kaggle2(1).ipynb)
+- [Jupyter notebook](notebook/Space_Kaggle2 (1).ipynb)
 
 This notebook includes:
 - Exploratory Data Analysis (EDA)
@@ -52,7 +52,7 @@ This notebook includes:
 You can view the notebook directly on GitHub or download it and run it locally.
 
 ## Repository Structure
-- `notebook/`: Contains the main [Jupyter notebook](notebook/Space_Kaggle2(1).ipynb) with code for EDA, preprocessing, and model training. 
+- `notebook/`: Contains the main [Jupyter notebook](notebook/Space_Kaggle2 (1).ipynb) with code for EDA, preprocessing, and model training. 
 - `data/`: [Data files](data) used in the project.
 - `README.md`: Project overview and documentation.
 
