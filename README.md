@@ -38,15 +38,9 @@ The goal of this competition is to predict whether passengers aboard the spacesh
 - **Hyperparameter Optimization**: Fine-tuning models to achieve optimal performance.
 
 ## Repository Structure
-- `notebooks/`: Contains the main Jupyter notebook(s) with code for EDA, preprocessing, and model training.
-- `data/`: Data files used in the project.
+- `notebooks/`: Contains the main [Jupyter notebook](notebooks/Space_Kaggle2.ipynb) with code for EDA, preprocessing, and model training.
+- `data/`: [Data files](data) used in the project.
 - `README.md`: Project overview and documentation.
-
-## Getting Started
-1. Clone this repository: `git clone https://github.com/JJentink3/Spaceship-Titanic-Kaggle.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Download the dataset from Kaggle and place it in the `data/` directory.
-4. Run the Jupyter notebook to see the results.
 
 ## Conclusion
 This project showcases my ability to apply machine learning techniques to a real-world dataset, optimizing model performance through careful analysis and tuning. The CatBoostClassifier’s performance demonstrates the effectiveness of this approach.
