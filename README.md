@@ -32,15 +32,29 @@ The goal of this competition is to predict whether passengers aboard the spacesh
 - The final optimized CatBoostClassifier achieved an accuracy score of **0.80874**, placing this solution in the top 6% (128th place out of 2,196 participants) on the Kaggle leaderboard.
 
 ## Key Features of This Project
-- **Comprehensive EDA**: Insightful visualizations and analysis that drive decision-making.
+- **Comprehensive EDA**: Insightful visualizations and analysis.
 - **Robust Data Preprocessing**: Effective handling of missing values and feature engineering to enhance model performance.
 - **Model Comparison**: Evaluation of multiple models to identify the best-performing approach.
 - **Hyperparameter Optimization**: Fine-tuning models to achieve optimal performance.
 
+## Project Notebook
+The main analysis and model training for this project is documented in the following Jupyter notebook:
+
+- [Jupyter notebook](notebooks/Space_Kaggle2.ipynb)
+
+This notebook includes:
+- Exploratory Data Analysis (EDA)
+- Data Preprocessing and Feature Engineering
+- Model Training and Evaluation (RandomForest, XGBoost, and CatBoost)
+- Hyperparameter Tuning using GridSearchCV
+- Final Model Results and Interpretation
+
+You can view the notebook directly on GitHub or download it and run it locally.
+
 ## Repository Structure
-- `notebooks/`: Contains the main [Jupyter notebook](notebooks/Space_Kaggle2.ipynb) with code for EDA, preprocessing, and model training.
+- `notebook/`: Contains the main [Jupyter notebook](notebooks/Space_Kaggle2.ipynb) with code for EDA, preprocessing, and model training. 
 - `data/`: [Data files](data) used in the project.
 - `README.md`: Project overview and documentation.
 
 ## Conclusion
-This project showcases my ability to apply machine learning techniques to a real-world dataset, optimizing model performance through careful analysis and tuning. The CatBoostClassifier’s performance demonstrates the effectiveness of this approach.
+This project showcases my ability to apply machine learning techniques to a dataset, optimizing model performance through careful analysis and tuning. The CatBoostClassifier’s performance demonstrates the effectiveness of this approach.
